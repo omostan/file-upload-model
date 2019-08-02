@@ -2,7 +2,7 @@
 
     'use strict';
 
-    angular.module('file-Upload-Model', [])
+    angular.module('angularjs.fileUploadModel', [])
         .directive('fileUploadModel', fileUploadModel);
         
     fileUploadModel.$inject = ['$log'];
