@@ -38,7 +38,7 @@
                     };
                     scope.files.push(fileObj);
                 });
-                $log.debug('File data: ' + JSON.stringify(scope.files));
+                //$log.debug('File data: ' + JSON.stringify(scope.files));
                 isMultiple ? ngModel.$setViewValue(scope.files) : ngModel.$setViewValue(scope.files[0]);
                 scope.ngChange();
             });
