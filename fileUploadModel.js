@@ -1,3 +1,11 @@
+/**
+ * angularjs.fileUploadModel
+ * AngularJS directive used for picking up file(s) on input of type "file" to be made available in the $scope and assigned to the binded model
+ * @version v1.0.0 - 2019-08-02
+ * @link https://github.com/omostan/fileUploadModel.git
+ * @author Stanley Omoregie <stan@omotech.com> (http://www.omotech.com)>
+ * @license MIT License, http://www.opensource.org/licenses/MIT
+ */
 (function (angular) {
 
     'use strict';
