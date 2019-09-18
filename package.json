@@ -1,0 +1,27 @@
+{ 
+   "name":"@omostan/angularjs-file-upload-model",
+   "version":"1.0.3",
+   "description":"AngularJS directive used for picking up file(s) on input of type file to be made available in the $scope and assigned to the binded model",
+   "author":"Stanley Omoregie",
+   "repository":{ 
+      "type":"git",
+      "url":"https://github.com/omostan/fileUploadModel.git"
+   },
+   "homepage":"https://github.com/omostan/fileUploadModel",
+   "keywords":[ 
+      "angular",
+      "angularjs",
+      "angular-js",
+      "directive",
+      "file",
+      "upload",
+      "file-upload",
+      "fileUpload",
+      "file-picker",
+      "filePicker"
+   ],
+   "license":"MIT",
+   "peerDependencies":{ 
+      "angular":"^1.5.0"
+   }
+}
