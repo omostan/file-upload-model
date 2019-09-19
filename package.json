@@ -1,6 +1,6 @@
 { 
    "name":"@omostan/angularjs-file-upload-model",
-   "version":"1.0.7",
+   "version":"1.0.10",
    "description":"AngularJS directive used for picking up file(s) on input of type file to be made available in the $scope and assigned to the binded model",
    "author":"Stanley Omoregie",
    "repository":{ 
